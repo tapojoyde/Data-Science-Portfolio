@@ -1,11 +1,11 @@
 # Data Science Projects
-Portfolio of data science projects using Jupyter Notebooks &amp; R elucidating the usage of data cleaning, manipulation, exploration, visualization, and modeling on a variety of datasets. Each folder contains a standalone project with datasets and a notebook with real-world applications. The academic projects have been worked on independently under supervision.
+Portfolio of data science projects using Jupyter notebooks &amp; R elucidating the usage of data cleaning, manipulation, exploration, visualization, and modeling on a variety of datasets. Each folder contains a standalone project with datasets and a notebook with real-world applications. The academic projects have been worked on independently under supervision.
 
 Listed below are the projects with their brief descriptions :
 
 ## 1. Web Scraping Steam Game Store with lxml Library
 This project is to extract and access the data on Steam website in an easily readable format using lxml library. The output will be provided in a JSON format, that can be used further for other applications.
-Links to the notebook: 
+Links to the Jupyter notebook: 
 [github](https://github.com/tapojoyde/steam_scrape/blob/main/steam-scrape.ipynb) | [nbviewer](https://nbviewer.org/github/tapojoyde/steam_scrape/blob/main/steam-scrape.ipynb)
 
 ## 2. TV, Halftime Shows and the Big Game
