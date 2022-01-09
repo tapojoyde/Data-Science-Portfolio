@@ -7,12 +7,13 @@ Listed below are the projects with their brief descriptions and links :
 This project is to extract and access the data on Steam website in an easily readable format using lxml library. The output will be provided in a JSON format, that can be used further for other applications.
 
 Links to the Jupyter notebook : 
-[github](https://github.com/tapojoyde/steam_scrape/blob/main/steam-scrape.ipynb) | [nbviewer](https://nbviewer.org/github/tapojoyde/steam_scrape/blob/main/steam-scrape.ipynb)
+[github](https://github.com/tapojoyde/steam_scrape/blob/f5758514e7c76a7e6e892cc5a461d889b9e6f08e/steam-scrape.ipynb) | [nbviewer](https://nbviewer.org/github/tapojoyde/steam_scrape/blob/f5758514e7c76a7e6e892cc5a461d889b9e6f08e/steam-scrape.ipynb)
 
-## 2. TV, Halftime Shows and the Big Game
-Analysis of data from the Superbowl Halftime shows, the American football extravaganza.
+## 2. Scraping & Analysing YouTube data using API
+The main aim of this project is to scrape YouTube data by accessing the YouTube Data API, analyse it and produce some simple visualizations.
 
-The link to the Jupyter notebook can be found [here](../master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook.ipynb)
+Links to the Jupyter notebook : 
+[github](https://github.com/tapojoyde/YouTube-Analysis/blob/1ee2c67798e7b1ac21b1d168b7cdd186a4142a70/YT_analysis.ipynb) | [nbviewer](https://nbviewer.org/github/tapojoyde/YouTube-Analysis/blob/1ee2c67798e7b1ac21b1d168b7cdd186a4142a70/YT_analysis.ipynb)
 
 ## 3. Level difficulty in Candy Crush Saga
 Analysis of data collected from players  of the popular game Candy Crush Saga to estimate level difficulty.
