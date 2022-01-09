@@ -7,7 +7,7 @@ Listed below are the projects with their brief descriptions :
 Throughout the world of data science, there are many languages and tools that can be used to complete a given task.  This project analyses what tools and languages professionals use in their day-to-day work. The data comes from the Kaggle Data Science Survey which includes responses from over 10,000 people that write code to analyse data in their daily work. 
 
 The link to the Jupyter notebook can be found [here](../master/Exploring%20the%20Kaggle%20Data%20Science%20Survey/notebook.ipynb)
-(..master/steam_scrape/steam-scrape.ipynb)
+[hereagain](..master/steam_scrape/steam-scrape.ipynb)
 
 ## 2. TV, Halftime Shows and the Big Game
 Analysis of data from the Superbowl Halftime shows, the American football extravaganza.
