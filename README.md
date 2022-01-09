@@ -4,11 +4,7 @@ Portfolio of data science projects using Jupyter Notebooks &amp; R elucidating t
 Listed below are the projects with their brief descriptions :
 
 ## 1. Web Scraping Steam Game Store with lxml Library
-
 This project is to extract and access the data on Steam website in an easily readable format using lxml library. The output will be provided in a JSON format, that can be used further for other applications.
-
-The project is to examine the significance of web scraping.
-
 Links to the notebook: 
 [github](https://github.com/tapojoyde/steam_scrape/blob/main/steam-scrape.ipynb) | [nbviewer](https://nbviewer.org/github/tapojoyde/steam_scrape/blob/main/steam-scrape.ipynb)
 
