@@ -38,4 +38,4 @@ Marine scientists use backscatter to understand the distribution of organisms in
 The link to the Jupyter notebook can be found [here](../master/Where%20are%20the%20fishes/notebook.ipynb)
 
 ---
-***Note*** : Sometimes the **github** links are unable to render the HTML in the Jupyter notebooks correctly. In such cases, please use the **nbviewer** links instead or alternatively, copy & paste the **github** URL to https://nbviewer.org/ to view.
+***Important Note*** : Sometimes the **github** links are unable to render the HTML in the Jupyter notebooks correctly. In such cases, please use the **nbviewer** links instead or alternatively, copy & paste the **github** URL to https://nbviewer.org/ to view.
