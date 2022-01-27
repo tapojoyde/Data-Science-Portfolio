@@ -20,5 +20,6 @@ This project aims to detect and differentiate between real and fake news from a 
 
 Links to the Jupyter notebook : 
 [github](https://github.com/tapojoyde/Fake-News-Detection/blob/main/fake_news_detection.ipynb) | [nbviewer](https://nbviewer.org/github/tapojoyde/Fake-News-Detection/blob/main/fake_news_detection.ipynb)
+
 ---
 ***Note*** : The **github** links are sometimes unable to properly render the HTML code in the Jupyter notebooks. In such cases, please use the **nbviewer** links instead or alternatively, copy & paste the **github** URL to https://nbviewer.org/ to view.
