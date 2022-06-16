@@ -27,5 +27,11 @@ In this project, we aim to perform real-time sign language detection using video
 View notebook :
 [github](https://github.com/tapojoyde/Sign-Language-Detection/blob/main/sign_lang_detection.ipynb) | [nbviewer](https://nbviewer.org/github/tapojoyde/Sign-Language-Detection/blob/main/sign_lang_detection.ipynb)
 
+## 5. Automated Generation of PDF Invoices
+This project aims to generate invoices automatically using Python programming, by taking invoice details as input, and thereafter generating & emailing invoices in PDF format to the respective recipients.
+
+View notebook :
+[github](https://github.com/tapojoyde/Auto-Invoice-Generator/blob/main/auto_invoice.ipynb) | [nbviewer](https://nbviewer.org/github/tapojoyde/Auto-Invoice-Generator/blob/main/auto_invoice.ipynb)
+
 ---
-***Note*** : The **github** links are sometimes unable to properly render the HTML code in the Jupyter notebooks. In such cases, please use the **nbviewer** links instead or alternatively, copy & paste the **github** URL to https://nbviewer.org/.
+***Note*** : The **github** links sometimes fail to properly render the HTML code in the notebooks. In such cases, please use the **nbviewer** links instead or alternatively, copy & paste the **github** URL to https://nbviewer.org/.
