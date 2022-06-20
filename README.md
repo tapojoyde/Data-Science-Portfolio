@@ -42,4 +42,4 @@ View notebook :
 ---
 ***Note*** : The **github** links sometimes fail to properly render the HTML code in the notebooks. In such cases, please use the **nbviewer** links instead or alternatively, copy & paste the **github** URL to https://nbviewer.org/.
 
-📫 Please feel free to reach me at [Gmail](de777tapojoy@gmail.com) | [LinkedIn](www.linkedin.com/in/detapojoy) for work opportunities and collaborations on interesting data science projects.
+📫 Please feel free to reach me at [LinkedIn](https://www.linkedin.com/in/detapojoy) for work opportunities and collaborations on interesting data science projects.
