@@ -33,5 +33,11 @@ This project aims to generate invoices automatically using Python programming, b
 View notebook :
 [github](https://github.com/tapojoyde/Auto-Invoice-Generator/blob/main/auto_invoice.ipynb) | [nbviewer](https://nbviewer.org/github/tapojoyde/Auto-Invoice-Generator/blob/main/auto_invoice.ipynb)
 
+## 6. Exploratory Data Analysis of NBA Players 2020-21
+The aim of this report is to examine the dataset for 492 NBA (National Basketball Association) players during 2020-2021 season and prepare it for further analysis by employing data cleansing methodologies. The report also explores the relationships between players’ total points and other features.
+
+View notebook :
+[github](https://github.com/tapojoyde/NBA-Analysis/blob/main/EDA_NBA.ipynb) | [nbviewer](https://nbviewer.org/github.com/tapojoyde/NBA-Analysis/blob/main/EDA_NBA.ipynb)
+
 ---
 ***Note*** : The **github** links sometimes fail to properly render the HTML code in the notebooks. In such cases, please use the **nbviewer** links instead or alternatively, copy & paste the **github** URL to https://nbviewer.org/.
