@@ -1,4 +1,4 @@
-# Data Science Projects
+# My Data Science Projects
 Portfolio of data science projects using Jupyter notebooks &amp; R elucidating the usage of data cleaning, manipulation, exploration, visualization, and modeling on a variety of datasets with real-world applications. Each folder pertains to a standalone project comprising of self-instructed as well as academic ones that have been worked on independently under supervision.
 
 Listed below are the projects with their brief descriptions and links :
