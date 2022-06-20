@@ -1,5 +1,5 @@
 # Data Science Projects
-Portfolio of data science projects using Jupyter notebooks &amp; R elucidating the usage of data cleaning, manipulation, exploration, visualization, and modeling on a variety of datasets. Each folder contains a standalone project with datasets and a notebook with real-world applications. The academic projects have been worked on independently under supervision.
+Portfolio of data science projects using Jupyter notebooks &amp; R elucidating the usage of data cleaning, manipulation, exploration, visualization, and modeling on a variety of datasets with real-world applications. Each folder pertains to a standalone project comprising of self-instructed as well as academic ones that have been worked on independently under supervision.
 
 Listed below are the projects with their brief descriptions and links :
 
@@ -41,3 +41,5 @@ View notebook :
 
 ---
 ***Note*** : The **github** links sometimes fail to properly render the HTML code in the notebooks. In such cases, please use the **nbviewer** links instead or alternatively, copy & paste the **github** URL to https://nbviewer.org/.
+
+📫 Please feel free to reach me at [Gmail](de777tapojoy@gmail.com) | [LinkedIn](www.linkedin.com/in/detapojoy) for work opportunities and collaborations on interesting data science projects.
