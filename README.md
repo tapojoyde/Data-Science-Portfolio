@@ -40,7 +40,7 @@ View notebook :
 [github](https://github.com/tapojoyde/NBA-Analysis/blob/main/EDA_NBA.ipynb) | [nbviewer](https://nbviewer.org/github/tapojoyde/NBA-Analysis/blob/main/EDA_NBA.ipynb)
 
 ## 7. Cluster Analysis on Survival of Patients with Heart Failure Records
-People with cardiovascular diseases or at high cardiovascular risk (due to the presence of one or more risk factors) need early detection and management wherein a ML model can be of great help. This project analyses a dataset of patients with previous heart failures and explores the application of clustering algorithms to predict survival likelihood. Also, it examines significant risk factors affecting heart failures using EDA and model evaluation is performed using visualizations and metrics.
+People with cardiovascular diseases or at high cardiovascular risk (due to the presence of one or more risk factors) need early detection and management wherein a ML model can be of great help. This project analyses a dataset of patients with previous heart failures and explores the application of clustering algorithms to predict survival likelihood. Also, it examines significant risk factors affecting heart failures using EDA.
 
 View notebook :
 [github](https://github.com/tapojoyde/HeartFailure-Cluster/blob/main/hf_cluster.ipynb) | [nbviewer](https://nbviewer.org/github/tapojoyde/HeartFailure-Cluster/blob/main/hf_cluster.ipynb)
