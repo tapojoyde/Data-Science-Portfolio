@@ -48,5 +48,12 @@ People with cardiovascular diseases or at high cardiovascular risk (due to the p
 View notebook :
 [github](https://github.com/tapojoyde/HeartFailure-Cluster/blob/main/hf_cluster.ipynb) | [nbviewer](https://nbviewer.org/github/tapojoyde/HeartFailure-Cluster/blob/main/hf_cluster.ipynb)
 
+## 8. Selective Missing Data Prediction for Memory-based Collaborative Filtering
+In this project, our aim is to tackle the issue of data sparsity in Memory-based Collaborative Filtering Recommended Systems. Based on a proposed solution framework given in an academic paper, we perform Python implementation of Effective Missing Data Prediction (EMDP) algorithm and evaulate its effectiveness in recommendation.
+This report also explores how and why the solution provided is able to tackle the missing value problem.
+
+View notebook :
+[github](https://github.com/tapojoyde/MissingData-CF/blob/main/missingval_cf.ipynb) | [nbviewer](https://nbviewer.org/github/tapojoyde/MissingData-CF/blob/main/missingval_cf.ipynb)
+
 ---
 ***Note*** : The **github** links sometimes fail to properly render the HTML code in the notebooks. In such cases, please use the **nbviewer** links instead or alternatively, copy & paste the **github** URL to https://nbviewer.org/.
