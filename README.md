@@ -12,7 +12,7 @@ Listed below are the projects with their brief descriptions and links :
 ## 1. Web Scraping Steam Game Store with lxml Library
 This project is to extract and access the data on Steam website in an easily readable format using lxml library. The output will be provided in a JSON format, that can be used further for other applications.
 
-**Links:** [Repository](https://github.com/tapojoyde/Steam_Scrape) | [Notebook](https://nbviewer.org/github/tapojoyde/Steam_Scrape/blob/main/steam-scrape.ipynb)
+*Links:* [Repository](https://github.com/tapojoyde/Steam_Scrape) | [Notebook](https://nbviewer.org/github/tapojoyde/Steam_Scrape/blob/main/steam-scrape.ipynb)
 
 ## 2. Scraping & Analysing YouTube data using API
 The main aim of this project is to scrape YouTube data by accessing the YouTube Data API, analyse it and produce some simple visualizations.
