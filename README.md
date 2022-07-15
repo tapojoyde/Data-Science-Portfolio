@@ -1,9 +1,7 @@
 # My Data Science Projects
 
 *📫 Please feel free to reach me on [LinkedIn](https://www.linkedin.com/in/detapojoy) for work opportunities and collaborations on anything data science related.*
-
-***Note*** : The **github** links provided here sometimes fail to properly render the HTML code used in the notebooks. For seamless viewing, please click on the **nbviewer** links instead or alternatively, copy + paste the **github** URL by going to https://nbviewer.org/.
-
+***Note*** : Please access the notebook links directly for seamless viewing rendered via [nbviewer](https://nbviewer.org/).
 ***
 Portfolio of data science projects using Jupyter notebooks &amp; R elucidating the usage of data cleaning, manipulation, exploration, visualization, and modeling on a variety of datasets with real-world applications. Each folder pertains to a standalone project comprising of self-instructed as well as academic ones that have been worked on independently under supervision.
 
