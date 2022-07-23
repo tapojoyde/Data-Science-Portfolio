@@ -6,7 +6,7 @@ Portfolio of data science projects using Jupyter notebooks &amp; R elucidating t
 
 Listed below are the projects with their brief descriptions and links :
 
-* ## Modeling of Credit Risk Prediction for German Bank
+## Modeling of Credit Risk Prediction for German Bank
 The objective of this project is to predict credit risk for a bank using all descriptive features of the South German Credit dataset. For this, we aim to analyse the significant features and thereafter, build a machine learning model that is able to predict whether the person (debtor), described by the attributes of the dataset, is a good (1) or a bad (0) credit risk.
 
 *Links: [Repository](https://github.com/tapojoyde/Credit-Risk-Predict) | [Phase 1 Notebook](https://nbviewer.org/github/tapojoyde/Credit-Risk-Predict/blob/main/Phase1_EDA.ipynb) | [Phase 2 Notebook](https://nbviewer.org/github/tapojoyde/Credit-Risk-Predict/blob/main/Phase2_Model.ipynb)*
